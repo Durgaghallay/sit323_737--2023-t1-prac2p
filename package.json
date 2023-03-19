@@ -1,0 +1,15 @@
+{
+  "name": "simple-static-hellow-world",
+  "version": "1.0.0",
+  "description": "Week 1 assignemnt. A simple express server which  serves a simple html file",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Durga Maya Ghallay",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
